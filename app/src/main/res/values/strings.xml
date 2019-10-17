@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score( 0/10)</string>
+
+   <string name="incorrect_toast">Wrong :(</string>
+    <string name="correct_toast">Got it :)</string>
+
+    <string name="question_1">1. CEO of Facebook is Mark Zuckerberg.</string>
+    <string name="question_2">2. CEO of Microsoft is Bill Gates.</string>
+    <string name="question_3">3. CEO of Apple is Tim Cook. </string>
+    <string name="question_4">4. CEO of Google is Sunder Pichai.</string>
+    <string name="question_5">5. CEO of Amazon is Larry.</string>
+    <string name="question_6">6. CEO of Twitter is Jack P Dorsey.</string>
+    <string name="question_7">7. CEO of Intel is Bob Lager.</string>
+    <string name="question_8">8. CEO of Yahoo is Marissa Mayer.</string>
+    <string name="question_9">9. CEO of Samsung is KOh, Dong Jin.</string>
+    <string name="question_10">10.  CEO of Alibaba.com is Jack Ma.</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
