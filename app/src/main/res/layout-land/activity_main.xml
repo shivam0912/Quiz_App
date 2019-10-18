@@ -71,7 +71,7 @@
         android:layout_alignParentRight="true"
         android:layout_marginStart="47dp"
         android:layout_marginLeft="47dp"
-        android:layout_marginTop="530dp"
+        android:layout_marginTop="310dp"
         android:layout_marginEnd="41dp"
         android:layout_marginRight="41dp"
         android:orientation="horizontal">
